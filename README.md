@@ -53,3 +53,14 @@ npm run dev
 ```
 
 ## 🏗️ Architecture
+
+## 📱 Screenshots
+
+### Login Page
+![Login](assets/login.png)
+
+### Trading Interface
+![Trading](assets/trading.png)
+
+### Trade History
+![Trades](assets/trades.png)
